@@ -5,7 +5,7 @@ var message = ['Ah ', 'h', 'i', 's', 't', ', something went wrong.'];
 
 // Functions
 
-function go() {
+function doStuff() {
   x = Math.floor(Math.random() * 101);
   if (x !== 55) {
     document.write('Drumroll please...');
